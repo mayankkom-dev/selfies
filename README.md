@@ -1,4 +1,4 @@
-# SELFIES
+# SELFIES - MK Edit
 
 [![GitHub release](https://img.shields.io/github/release/aspuru-guzik-group/selfies.svg)](https://GitHub.com/aspuru-guzik-group/selfies/releases/)
 ![versions](https://img.shields.io/pypi/pyversions/selfies.svg)
